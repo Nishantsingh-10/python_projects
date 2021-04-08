@@ -1,1 +1,1 @@
-# Complete Automation Project Using Pyhton Script
+# Complete Automation Project Using Python Script
